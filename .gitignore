@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+.env
+todoapp-340315-afea0b69e558.json
+uploads/*
